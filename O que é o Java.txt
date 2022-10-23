@@ -2,3 +2,11 @@
 
 ​	Linguagem de programação simples e fácil, orientada a objetos (POO) . Tudo é escrito em termos de CLASSES e OBJETOS. 
 
+### IDE
+
+Integrated Development Environment - Ambiente de desenvolvimento integrado, plataforma que facilita o desenvolvimento do código
+
+- Visul Studio Code
+- Apache NetBeans
+- eclipse
+- IntelliJ ID
