@@ -2,6 +2,8 @@
 
 ​	Linguagem de programação simples e fácil, orientada a objetos (POO) . Tudo é escrito em termos de CLASSES e OBJETOS. 
 
+https://glysns.gitbook.io/java-basico/
+
 ### IDE
 
 Integrated Development Environment - Ambiente de desenvolvimento integrado, plataforma que facilita o desenvolvimento do código
@@ -10,3 +12,25 @@ Integrated Development Environment - Ambiente de desenvolvimento integrado, plat
 - Apache NetBeans
 - eclipse
 - IntelliJ ID
+
+### JDK
+
+### Java Sintaxe
+
+- Estrutura inicial
+- Padrão de nomenclatura
+- Declarando variáveis e métodos
+- Identação
+- organizar por pacotes
+- Java Beans
+
+#### Anatomia das classes
+
+Classe executável - main
+
+public static void main (String) [ ] args {
+
+}
+
+array = []
+
