@@ -34,3 +34,24 @@ public static void main (String) [ ] args {
 
 array = []
 
+System.out.*print* (método)
+
+ *parâmetro que define o método*
+
+##### Nomenclatura
+
+- todo arquivo .java deve começar com letra MAISCULA
+
+​		ex: Calculadora.java , CalculadoraCientifica.java
+
+- Nome da classe = nome do arquivo
+
+- Nome de variável = letra minúscula
+
+  ex: ano e anoFabricacao // camelCase
+
+  
+
+  
+
+  
