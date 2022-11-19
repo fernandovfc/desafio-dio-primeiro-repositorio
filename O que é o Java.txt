@@ -6,7 +6,7 @@ https://glysns.gitbook.io/java-basico/
 
 ### IDE
 
-Integrated Development Environment - Ambiente de desenvolvimento integrado, plataforma que facilita o desenvolvimento do código
+​	Integrated Development Environment - Ambiente de desenvolvimento integrado, plataforma que facilita o desenvolvimento do código
 
 - Visul Studio Code
 - Apache NetBeans
@@ -15,43 +15,118 @@ Integrated Development Environment - Ambiente de desenvolvimento integrado, plat
 
 ### JDK
 
-### Java Sintaxe
+## Java Sintaxe
 
 - Estrutura inicial
+
+  Classe executável - main
+
+  public static void main (String) [ ] args {
+
+  }
+
+  array = []
+
+  System.out.*print* (método)
+
+   *parâmetro que define o método*
+
 - Padrão de nomenclatura
+
+  - todo arquivo .java deve começar com letra MAISCULA
+
+  ​		ex: Calculadora.java , CalculadoraCientifica.java
+
+  - Nome da classe = nome do arquivo
+
+  - Nome de variável = letra minúscula
+
+    ex: ano e anoFabricacao // camelCase
+
 - Declarando variáveis e métodos
+
+- // Variáveis Estrutura
+
+  Tipo NomeBemDefinido = Atribuição (opcional em alguns casos)
+
+  
+
+  Ex: int idade = 23
+
+  double altura = 1.62
+
+  Dog spike
+
+  // Métodos Estrutura
+
+  
+
+  TipoRetorno NomeObjetivoNoInfinitivo Parametro(s)
+
+  
+
+  Ex: int somar (int numeroUm, int numero2)
+
+  String formatarCep (long cep)
+
 - Identação
-- organizar por pacotes
+
+  Escrever o código do programa deforma hierárquica, facilitando assim a visualição e o entedimento do programa.
+
+- Organização por pacotes
+
 - Java Beans
 
-#### Anatomia das classes
+### Tipos e Variáveis
 
-Classe executável - main
+- Numéricos inteiros e decimais
+- Tipos lógicos
+- Caractereres
+- Objetos
+- Diferença entre variável e constante
 
-public static void main (String) [ ] args {
+Tipos de dados
 
-}
+No Java existem algumas palavras reservadas para a representação dos tipos de dados básicos que precisam ser manipulados para a construção de programas. Primitive Types: 
 
-array = []
+- int
+- byte
+- short
+- long
+- float
+- double
+- boolean
+- char
 
-System.out.*print* (método)
+Não são considerados objetos. Representam valores brutos.
 
- *parâmetro que define o método*
+Declaração de variáveis
 
-##### Nomenclatura
+Variável é uma identificação de um espaço em memória utiizado pelo nosso programa.
 
-- todo arquivo .java deve começar com letra MAISCULA
+tipo de dados + identificação + valor atribuído
 
-​		ex: Calculadora.java , CalculadoraCientifica.java
+<tipo> <nomeVariavel> <atribuicaoDeValorOpcional>
 
-- Nome da classe = nome do arquivo
+ex: 
 
-- Nome de variável = letra minúscula
+int idade
 
-  ex: ano e anoFabricacao // camelCase
+int anoFabricacao
 
-  
+souble salarioMinimo
 
-  
+casting (?)
 
-  
+### Operadores
+
+
+
+
+
+
+
+
+
+
+
