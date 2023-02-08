@@ -21,19 +21,23 @@ https://glysns.gitbook.io/java-basico/
 
   Classe executável - main
 
-  public static void main (String) [ ] args {
+  `public static void main (String) [ ] args {`
 
-  }
+  `}`
 
   array = []
 
-  System.out.*print* (método)
+  ***System.out.print*** (método)
 
-   *parâmetro que define o método*
+   ***parâmetro que define o método***
+
+  Toda Classe deve estar dentro de src
+
+  
 
 - Padrão de nomenclatura
 
-  - todo arquivo .java deve começar com letra MAISCULA
+  - todo arquivo .java deve **começar** com letra MAISCULA
 
   ​		ex: Calculadora.java , CalculadoraCientifica.java
 
@@ -43,9 +47,11 @@ https://glysns.gitbook.io/java-basico/
 
     ex: ano e anoFabricacao // camelCase
 
-- Declarando variáveis e métodos
+    
 
-- // Variáveis Estrutura
+- ##### Declarando variáveis e métodos
+
+  - **// Variáveis Estrutura**
 
   Tipo NomeBemDefinido = Atribuição (opcional em alguns casos)
 
@@ -57,17 +63,19 @@ https://glysns.gitbook.io/java-basico/
 
   Dog spike
 
-  // Métodos Estrutura
+  
+
+  - **// Métodos Estrutura**
 
   
 
-  TipoRetorno NomeObjetivoNoInfinitivo Parametro(s)
+  TipoRetorno **NomeObjetivoNoInfinitivo** Parametro(s)
 
   
 
-  Ex: int somar (int numeroUm, int numero2)
+  Ex: int **somar** (int numeroUm, int numero2)
 
-  String formatarCep (long cep)
+  String **formatarCep** (long cep)
 
 - Identação
 
